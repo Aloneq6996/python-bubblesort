@@ -1,2 +1,2 @@
-# python-bubblesort
- Simple python bubblesort script
+# Hi!
+## I present to you a very simple bubble sort python script.
